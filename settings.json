@@ -12,13 +12,13 @@
   "autoreactsw": false,
   "antilinkall": false,
   "autobio": false,
-  "autoptv": true,
+  "autoptv": false,
   "autosong": false,
   "autoreply": false,
   "autosticker": false,
   "autovoice": false,
   "autoytvid": false,
   "aichat": false,
-  "autoTyping": true,
+  "autoTyping": false,
   "autoRecord": false
 }
