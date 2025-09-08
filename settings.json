@@ -11,7 +11,7 @@
   "antidelete": false,
   "autoreactsw": false,
   "antilinkall": false,
-  "autobio": false,
+  "autobio": true,
   "autoptv": true,
   "autosong": false,
   "autoreply": false,
