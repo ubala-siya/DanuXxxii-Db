@@ -18,7 +18,7 @@
   "autosticker": false,
   "autovoice": false,
   "autoytvid": false,
-  "aichat": true,
+  "aichat": false,
   "autoTyping": false,
   "autoRecord": false
 }
