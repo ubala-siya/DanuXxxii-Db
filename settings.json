@@ -8,7 +8,7 @@
   "antibot": false,
   "antibad": false,
   "antibadv2": false,
-  "antidelete": false,
+  "antidelete": true,
   "autoreactsw": false,
   "antilinkall": false,
   "autobio": false,
